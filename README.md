@@ -1,29 +1,3 @@
-Oh My Bash is an open source, community-driven framework for managing your [bash](https://www.gnu.org/software/bash/) configuration.
-
-Sounds boring. Let's try again.
-
-Oh My Bash will not make you a 10x developer...but you might feel like one.
-
-Once installed, your terminal shell will become the talk of the town or your money back! With each keystroke in your command prompt, you'll take advantage of the hundreds of powerful plugins and beautiful themes. Strangers will come up to you in cafés and ask you, "that is amazing! are you some sort of genius?"
-
-Finally, you'll begin to get the sort of attention that you have always felt you deserved. ...or maybe you'll use the time that you're saving to start flossing more often.
-
-## Getting Started
-
-### Prerequisites
-
-__Disclaimer:__ _Oh My Bash works best on macOS and Linux._
-
-* Unix-like operating system (macOS or Linux)
-* `curl` or `wget` should be installed
-* `git` should be installed
-
-### Basic Installation
-
-Oh My Bash is installed by running one of the following commands in your terminal. You can install this via the command-line with either `curl` or `wget`.
-
-#### via curl
-
 ```shell
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 ```
