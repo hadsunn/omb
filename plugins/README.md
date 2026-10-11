@@ -36,6 +36,7 @@ By leveraging these plugins, you can streamline your workflow and tackle coding 
 | cargo             | Plugin to initialize CARGO_HOME and PATH for cargo                                                                          |
 | colored-man-pages | Adds a few colors to `man` pages.                                                                                           |
 | chezmoi           | Dotfile management tool enabling management of user environment configuration.                                              |
+| [donottrack](donottrack) | Sets the environment variables that opt out of CLI application telemetry.                                            |
 | dotnet            | This plugin provides completion and useful aliases for .NET Core CLI.                                                       |
 | fasd              | Utility easing filesystem navigation through shortcuts and abbreviated commands.                                            |
 | fzf               | A command-line fuzzy finder.                                                                                                |
@@ -52,6 +53,7 @@ By leveraging these plugins, you can streamline your workflow and tackle coding 
 | rbenv             | Tool for managing your app's Ruby environment.                                                                              |
 | sdkman            | Version and package manager for development tools such as Java, Kotlin, and Gradle.                                         |
 | sudo              | Utility for executing commands with superuser privileges on Unix and Unix-like systems.                                     |
+| tmux              | Aliases for tmux, the terminal multiplexer.                                                                                 |
 | tmux-autoattach   | Plugin related to session management in the tmux terminal multiplexer.                                                      |
 | vagrant           | Tool for creating and managing virtual development environments.                                                            |
 | virtualenvwrapper | A set of extensions to the virtualenv tool.                                                                                 |
